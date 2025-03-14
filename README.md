@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there! 👋
 ## Welcome to my profile! I hope you are doing well and you haven't stop learning! 
 
 My name is Maria, and I'm a UCY trained data scientist interested in all things about **Data and AI**! ✨
