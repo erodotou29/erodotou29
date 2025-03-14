@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
-- 
+
+## Hello! My name is Maria! Welcome!
+- I am an energetic data scientist looking for new projects to work on!
+- I am currently learning about deep learning
+- I am looking to collaborate with
 <!--
 **erodotou29/erodotou29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
