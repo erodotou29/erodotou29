@@ -1,13 +1,14 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+### Hello there 👋
+## Welcome to my profile! I hope you are doing well and you haven't stop learning! 
 
-## Hello! My name is Maria! Welcome!
-- I am an energetic data scientist looking for new projects to work on!
-- I am currently learning about deep learning
-- I am looking to collaborate with
+My name is Maria, and I'm a UCY trained data scientist interested in all things about **Data and AI**! ✨
+
+-  I specialize in exploring and analyzing data using Python and SQL. 🔭
+-  I’m currently learning how to call an HTTP API with Postman! 🌱
+-  I’m looking to collaborate on new up-to-date projects. 👯
+-  How to reach me: *mariaerodotou01@gmail.com* 📫
+-  Data has the power to shape the future! 
+
 <!--
 **erodotou29/erodotou29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
